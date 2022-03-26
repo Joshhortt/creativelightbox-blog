@@ -9,6 +9,7 @@
     <div class="px-2 mx-2 navbar-start">
       <span class="text-lg font-bold"> CREATIVE LIGHTBOX </span>
     </div>
+
     <div class="px-2 mx-2 navbar-center">
       <div class="flex items-stretch">
         <a class="btn btn-ghost btn-sm rounded-btn" href={`/`}>Home</a>
@@ -19,6 +20,7 @@
         {/each}
       </div>
     </div>
+    
     <!-- <div class="navbar-end">
       <ThemeSelect />
     </div> -->

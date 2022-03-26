@@ -21,7 +21,7 @@ export const load = async ({fetch}) => {
   <title>Creative Lightbox</title>
 </svelte:head>
 
-<h1 class="text-3xl text-center mb10 font-extrabold">Welcome to Creative Lightbox</h1>
+<h1 class="text-4xl text-center mb10 font-extrabold">Welcome to my Blog</h1>
 
 <!-- <p>
   Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the
