@@ -67,6 +67,6 @@
     </div>
   </div>
   
-  <article div class="prose">
+  <article class="prose">
     {@html html}
   </article>
