@@ -1,4 +1,4 @@
-<!-- <div>
+<div>
     <select
       data-choose-theme
       class="pr-9 select select-bordered select-primary bg-base-100 select-xs text-base-content"
@@ -28,4 +28,4 @@
       <option value="valentine">Valentine</option>
       <option value="wireframe">Wireframe</option>
     </select>
-  </div> -->
+  </div>
